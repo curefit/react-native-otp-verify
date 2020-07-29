@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/faizalshap/react-native-otp-verify.git"
+    "url": "git+https://github.com/curefit/react-native-otp-verify.git"
   },
   "peerDependencies": {
     "react-native": "^0.60.0"
